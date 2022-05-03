@@ -7,5 +7,5 @@
 <p align="center">Testnode is a Swift mobile application that makes the process of getting tested for Covid-19 more efficient by filling in personal information to send to the testing centers.</p>
 
 <div align="center">
-[![Youtube Presention](https://img.youtube.com/vi/-XP5CEz0Lxs/0.jpg)](https://www.youtube.com/watch?v=-XP5CEz0Lxs)
+  [![Youtube Presention](https://img.youtube.com/vi/-XP5CEz0Lxs/0.jpg)](https://www.youtube.com/watch?v=-XP5CEz0Lxs)
 </div>
