@@ -18,8 +18,9 @@
 View Screenshots
 </summary>
 
-![Demo](docs/home.png)
-![Demo](docs/checkin.png)
-![Demo](docs/patientinfo.png)
-![Demo](docs/resources.png)
+<img src=docs/home.png width="225">
+<img src=docs/checkin.png width="225">
+<img src=docs/patientinfo.png width="225">
+<img src=docs/resources.png width="225">
+  
 </details>
