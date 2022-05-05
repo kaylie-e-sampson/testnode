@@ -15,7 +15,7 @@
 
 <details>
 <summary>
-View More Screenshots
+View Screenshots
 </summary>
 
 ![Demo](docs/static/img/Xplorer_dark+.png)
