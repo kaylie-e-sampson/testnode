@@ -1,7 +1,7 @@
 # TestNode
 
 <div align="center">
-<img height=150 alt="testnodelogo" src="https://user-images.githubusercontent.com/67167039/166089832-a80e7b64-bfd0-40a2-916e-1f826c950f86.png" />
+<img width="350" alt="testnodelogo" src="https://user-images.githubusercontent.com/67167039/166089832-a80e7b64-bfd0-40a2-916e-1f826c950f86.png" />
 </div>
 
 <p align="center"><span><b>TestNode</b>, an application that makes the process of getting tested for Covid-19 more efficient</span></p>
