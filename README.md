@@ -18,11 +18,8 @@
 View Screenshots
 </summary>
 
-![Demo](docs/static/img/Xplorer_dark+.png)
-![Demo](docs/static/img/Xplorer_light.png)
-![Demo](docs/static/img/Xplorer_light+.png)
-![Demo](docs/static/img/Xplorer_mac_light.png)
-![Demo](docs/static/img/Xplorer_mac_dark.png)
-![Demo](docs/static/img/Xplorer_linux.png)
-
+![Demo](docs/home.png)
+![Demo](docs/checkin.png)
+![Demo](docs/patientinfo.png)
+![Demo](docs/resources.png)
 </details>
