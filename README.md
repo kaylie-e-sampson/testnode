@@ -3,8 +3,6 @@
 </div>
 
 <p align="center"><span><b>TestNode</b>, an application that makes the process of getting tested for Covid-19 more efficient</span></p>
-
-<div align="center">
   
   
 ---
