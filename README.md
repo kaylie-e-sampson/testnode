@@ -13,3 +13,16 @@
 
   [![Youtube Presention](https://img.youtube.com/vi/-XP5CEz0Lxs/0.jpg)](https://www.youtube.com/watch?v=-XP5CEz0Lxs)
 
+<details>
+<summary>
+View More Screenshots
+</summary>
+
+![Demo](docs/static/img/Xplorer_dark+.png)
+![Demo](docs/static/img/Xplorer_light.png)
+![Demo](docs/static/img/Xplorer_light+.png)
+![Demo](docs/static/img/Xplorer_mac_light.png)
+![Demo](docs/static/img/Xplorer_mac_dark.png)
+![Demo](docs/static/img/Xplorer_linux.png)
+
+</details>
