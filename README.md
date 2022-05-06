@@ -30,4 +30,6 @@ The language I chose to program Testnode is Swift using Xcode.
 When you start the app up, it brings to the menu, where there is a list of forms needed to fill out, prescreening, check in, and check out.
 
 Before going to the center to get tested, the user must fill out the prescreening form which I found on the New Hampshire Homeland Security and emergency Management resource center website.
+  
+Then, once the patient is at the testing center, there is a check in and check out form that the patient would fill out and send to the testing center with more relevant information about the patient's current symptoms. 
 </p>
